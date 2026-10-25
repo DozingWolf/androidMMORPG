@@ -1,0 +1,54 @@
+# ---------- Unity ----------
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Ee]xportedObj/
+[Aa]ssets/AssetStoreTools*
+
+# ---------- IDE / 自动生成工程文件 ----------
+.vs/
+.idea/
+.vscode/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# ---------- 构建产物 ----------
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ---------- Android ----------
+.gradle/
+local.properties
+captures/
+
+# ---------- Unity 崩溃与诊断 ----------
+sysinfo.txt
+crashlytics-build.properties
+
+# ---------- 操作系统 ----------
+.DS_Store
+Thumbs.db
+
+# 注意：Assets/ 下的 *.meta 文件必须提交，不要忽略。
+# 注意：Packages/ 与 ProjectSettings/ 必须提交。
